@@ -1,0 +1,25 @@
+.navlink__main{
+    background-color: #232f3e;
+    height: 36px;
+}
+
+.navlink__inner{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+.navlink__inner a{
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 5px;
+    margin-right: 50px;
+}
+
+.navlink__inner a:hover{
+    color: orangered;
+    text-decoration: none;
+    cursor: pointer;
+    border: solid 1px orangered;
+}
